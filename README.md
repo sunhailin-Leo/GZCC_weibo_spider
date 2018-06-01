@@ -34,4 +34,11 @@ python3 scrapy_cmd.py
 
 之后再补~
 
+<h3 id="Future">未来开发方向</h3>
+
+* 账号使用多种方式进行读取(数据库方式(MySQL和MongoDB), 文件形式(json、EXCEL、csv))
+* 代理IP池的引入
+* 考虑使用微服务的形式启动爬虫(Flask等)
+* 未完待续...(可以补充,欢迎提供issue)
+
 ---
